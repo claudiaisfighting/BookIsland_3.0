@@ -1,0 +1,89 @@
+//App Dev - App Brainstorming
+Favorite Existing Apps - List
+Claudia
+1.Medium
+2.Instagram
+3.Google Calendar
+4.Fever
+5.Airbnb
+
+Brajan
+1.Discord
+2.Kindle
+3.Netflix
+4.Twitch
+5.Steam
+
+Favorite Existing Apps - Categorize and Evaluate
+Instagram
+    Category: Photo & Video / Social
+    Mobile: Website is view only, uses camera, mobile first experience.
+    Story: Allows users to share their lives in pictures and enhance their content with filters
+    Market: Anyone that takes pictures could enjoy this app. Ability to follow and hashtag based on interests and categories allows users with unique interests to engage with relevant content.
+    Habit: Users can post throughout the day many times. Features like “Stories” encourage more candid posting as well. Users can explore endless pictures in any category imaginable whenever they want. Very habbit forming!
+    Scope: Instagram started out extremely narrow focused, just posting pics and viewing feeds. Has expanded to a somewhat larger scope including “Instagram Stories” (a la SnapChat) and messenger features.
+
+Medium
+    Category: Writing & Publishing / Social
+    Mobile: Website is view only, uses camera, mobile first experience.
+    Story: Allows users to be an individual contributor and share their stories about popular topics on Medium range from mental health to social media, and from world affairs and trending news to productivity hacks.
+    Market: It provids a potencial audience and has extremely high Domain Authority, allowing content to rank much easier than on other platforms.
+    Habit: It’s really user-friendly so that everyone can have a chance to be blogger.Features like “Write a Story” encourage more candid sharing their thoughts as well. Users can freely share their opinions in any category whenever they want. Very habbit forming!
+    Scope: Medium started out sharing medium-length stories with the right audience. Medium is still invite-only, but it has expanded now and anyone will be able to start a collection and publish their own photographs or writing.
+
+Discord
+    Category: Social
+    Mobile: Uses camera to display photos in the app.
+    Story: Allows users to communicate with each other and open their own servers to create communities.
+    Market: Anyone that wants to talk to friends or be a part of a community will enjoy this app. The user can play games, watch videos or learn with their friends.
+    Habit: Users can post throughout the day many times. They can be notified whenever they are mentioned or something interests them.
+    Scope: It started as just a messaging app. Now there are ways to interact with games and activities.
+
+
+New App Ideas - List
+Puzzle game - Get a puzzle game every day and solve it. The puzzles would have difficulty ratings and users would be timed, receiving a number of stars depending on the time it takes to solve the puzzle.
+
+Book Search Application - Add books that you have read in your personal library and write about them. Search new books or categories to find what to read next.
+
+Spanish Quiz App - A game app to help teachers test the knowledge of students.
+
+Food Tracker - Track your daily calorie intake and see your history and tips on how to regulate the diet.
+
+Task Tracker - Track daily, weekly and monthly tasks, create notes or set up reminders to keep life organized.
+
+Screen Time Tracker - Track screen time and set up breaks and exercises to mediate the time spent in front of a screen.
+
+Food Recipe App - Learn new recipes depending on the food and utensils available.
+
+Top 3 New App Ideas
+Book Search Application(BookIsland)
+Puzzle Game
+Quiz App
+
+New App Ideas - Evaluate and Categorize
+Book App
+    Category: Education
+    Mobile: Uses camera in notes to comment about the books.
+    Story: Allows users to search through a book database and search for their favorite books. They can create their own collection of books and write about what they think of them.
+    Market: Any person that likes reading books would be interested in this app.
+    Habit: Motivate users to spend more time reading books instead of watching tiktok videos and encourage them to keep reading.
+    Scope: V1 would allow the user to search for books and add them to their collection and place notes on the books them have read or are reading. V2 would allow the user to also take photos in the notes section. V3 would include a dashboard that gives the user information about the time they have spent reading.
+
+API: Google Books API, Poemist(https://www.programmableweb.com/api/poemist-rest-api-v10)
+IT Bookstore API
+
+Puzzle game
+    Category: Game
+    Mobile: App will be mobile based
+    Story: Get a puzzle a day and try to solve it as quickly as possible. Get stars depending on the time it took to complete the puzzle. Puzzles can have difficulty ratings.
+    Market: Any user that likes puzzle games.
+    Habit: Daily puzzles that encourage the player to check the app daily to keep up win streaks and get stars.
+    Scope: Make it easy and fun for users to enjoy puzzle game when they are available.
+
+Spanish Quizz App
+    Category: Educational
+    Mobile: App will be mobile based.
+    Story: An extra tool for students who want to learn Spanish. Enhances the learning experience for those that are taking Spanish classes.
+    Market: People that want to learn Spanish.
+    Habit: Make it interesting and easy for people to learn spanish and deeply consolidate their knowledge.
+    Scope: Users can have more chances to practive their spanish skills and get access to resources of spanish. Teachers can know more about students’ spanish learing process.

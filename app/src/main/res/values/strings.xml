@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookIsland</string>
+    <string name="welcome">Welcome!</string>
+    <string name="button">Button</string>
+    <string name="search">Search</string>
+    <string name="collections">Collections</string>
+    <string name="settings">Settings</string>
+</resources>
